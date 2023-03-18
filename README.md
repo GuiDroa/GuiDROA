@@ -1,5 +1,5 @@
 ### Hi, I am Guilherme Assuncao. A computer science student at USF!! 👋
-### ---------------------------------------------------- ABOUT ME ----------------------------------------------------
+### --------------------------------------------------- ABOUT ME ----------------------------------------------------
 ### I am currently a Computer Science major at The University of South Florida. I have always liked to solve problems that require logical ### and critical thinking. Therefore, I believe that in Computer Science I will continue to be tested on my problem solving skills and ### ### further develop it. As I have learned along my academic career, there is always a clever way to achieve the same results.
 
 ### As a Computer Science student, I was tasked to work in many assignments with varying difficult level. One of my achievements was being ### able to construct a fully functional Coffee Robot that used IR sensors to follow a pre-assigned path. It was also as a Computer ### Science student that I used Phyton to code a Hare and Tortoise race simulation using the Turtle Module.
